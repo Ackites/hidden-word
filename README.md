@@ -47,6 +47,12 @@ npm run dev
 npm run build
 ```
 
+### start
+
+```bash
+start.bat
+```
+
 ## License
 
 [MIT](LICENSE)
