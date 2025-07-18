@@ -49,6 +49,11 @@ npm run dev
 npm run build
 ```
 
+### 运行
+
+```bash
+start.bat
+```
 ## 许可证
 
 [MIT](LICENSE)
